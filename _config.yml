@@ -19,14 +19,9 @@ permalink: pretty
 theme: minima
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 collections:
-  tools:
-    output: true
-  languages:
-    output: true
 
 defaults:
   - scope:
