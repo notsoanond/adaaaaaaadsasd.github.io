@@ -1,18 +1,18 @@
 ### Site metadata
 
 # Don't make the title longer than this, otherwise it gets covered in mobile view.
-title: Jekyll Blog Demo
-description: Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages
+title: adaaaaaaadsasd's Blog
+description: My small blog
 
 email:
 twitter_username:
-github_username: MichaelCurrin
-rss: RSS
+github_username: adaaaaaaadsasd
+rss:
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+url: https://adaaaaaaadsasd.github.io
+baseurl: /
 
 permalink: pretty
 
