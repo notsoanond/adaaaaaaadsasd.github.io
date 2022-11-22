@@ -33,7 +33,7 @@ You might also want a plugin to "insert" a model of a player you want to "conver
 
 ## Understanding the plugin UI
 <div align="center">
-    <img src="https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzCC-ui.png" width="800" />
+    <img src="https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzCC-ui.png" width="420" />
 </div>
 
 You will probably understand the plugin UI as soon as you see it. Just a small specification tho: you need to place the base model for you character in Workspace or else it won't work.<br>Oh, and if the plugin doesn't detect a CharacterSelection UI not being present in game.StarterGui, it will automatically put one there (this UI is what is being used to test out the morph.).<br>I also recommand **ALWAYS** checking the "Parent to game.ServerStorage.Characters" box. (you will need to put a baseplate with the size being `2048, 12, 2048` and the position being `0, -1028, 0` for less bugs tho.)<br>You might also want to run the game with avatars in R6 for the animations to work.
@@ -44,7 +44,7 @@ Here is a quick example of the plugin in action:
 	<video width="800" controls><source src="https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzCC-example.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
 </div>
 
-## Testing your edited spritesheet
+## Testing your morph
 1. Click the "Play" Button or press F5 to start the game.
 2. Enjoy playing around with your inflated character.
 
