@@ -7,7 +7,7 @@ layout: post
 
 Last post. Also, happy christmas.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Z-Nu351j58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/_Z-Nu351j58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I don't want to do this anymore. Making inflatable suitz! is against the Roblox TOS, and I don't want to receive a lawsuit in my mailbox. So here is the very last version of inflatable suitz!.
 
@@ -17,6 +17,6 @@ You'll need 7zip to extract the 7z file. The password is `quite simple`. The res
 
 Goodbye.
 
-- adaaaaaaadsasd
+-adaaaaaaadsasd
 
 P.S. I won't delete this repository and the Discord server. I just don't want to do this anymore.
