@@ -5,6 +5,8 @@ layout: post
 
 **WARNING: This posts contains information on a game about body inflation fetish content. It is highly recommanded to NOT read this if you aren't above 18, or at the minimum, above 13.**
 
+**NOTE! most of the time i come back to this whole parade. don't be surprised if i do a new post or something**
+
 Very very final post. Also, it's my birthday tomorrow (the 30th of May).
 
 I was back in business the last few months, making a very few updates to inflatable suitz!, and making a few scripts that would help me making games. I also talked alot with friends I made here the past months.
