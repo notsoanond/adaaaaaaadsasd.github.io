@@ -11,7 +11,7 @@ Last post. Also, happy christmas.
 
 I don't want to do this anymore. Making inflatable suitz! is against the Roblox TOS, and I don't want to receive a lawsuit in my mailbox. So here is the very last version of inflatable suitz!.
 
-[Download](https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/v8-publicrelease.7z)
+[Download](/assets/fwoompsuitz/v8-publicrelease.7z)
 
 You'll need 7zip to extract the 7z file. The password is `quite simple`. The rest of the information is included in the READ ME. Please note that there are anti-publishing mesures in the Studio file, sorry mobile players.
 

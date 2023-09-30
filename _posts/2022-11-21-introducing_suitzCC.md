@@ -15,7 +15,7 @@ Anyways, I am making this blog post to announce the new plugin I made, which wil
 
 ## The files you're gonna need
 Unfortunatly, this tutorial is only for Computers **for now** (you never know, Roblox might make Roblox Studio for mobile or some shit)
-- [inflatable suitz! Character Creator V1](https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzCC.rbxmx)
+- [inflatable suitz! Character Creator V1](/assets/fwoompsuitz/suitzCC.rbxmx)
 - [Roblox Studio](https://www.roblox.com/create) (kinda obvious lmao)
 
 You might also want a plugin to "insert" a model of a player you want to "convert" to the game's format. I strongly recommand Load Character Lite by AlreadyPro. This plugin is avaliable [here](https://www.roblox.com/library/752585459/Load-Character-Lite).
@@ -33,7 +33,7 @@ You might also want a plugin to "insert" a model of a player you want to "conver
 
 ## Understanding the plugin UI
 <div align="center">
-    <img src="https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzCC-ui.png" width="420" />
+    <img src="/assets/fwoompsuitz/suitzCC-ui.png" width="420" />
 </div>
 
 You will probably understand the plugin UI as soon as you see it. Just a small specification tho: you need to place the base model for you character in Workspace or else it won't work.<br>Oh, and if the plugin doesn't detect a CharacterSelection UI not being present in game.StarterGui, it will automatically put one there (this UI is what is being used to test out the morph.).<br>I also recommand **ALWAYS** checking the "Parent to game.ServerStorage.Characters" box. (you will need to put a baseplate with the size being `2048, 12, 2048` and the position being `0, -1028, 0` for less bugs tho.)<br>You might also want to run the game with avatars in R6 for the animations to work.
@@ -41,7 +41,7 @@ You will probably understand the plugin UI as soon as you see it. Just a small s
 Here is a quick example of the plugin in action:
 
 <div align="center">
-	<video width="800" controls><source src="https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzCC-example.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
+	<video width="800" controls><source src="/assets/fwoompsuitz/suitzCC-example.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
 </div>
 
 ## Testing your morph
@@ -59,5 +59,5 @@ The game is kind of ready for a release (i honestly do not know how i managed to
 **WARNING!: This video showcases most of the update lmao. (also the portal mechanic is pretty buggy and manages to break the physics)**
 
 <div align="center">
-	<video width="800" controls><source src="https://adaaaaaaadsasd.github.io/assets/fwoompsuitz/suitzV7-preview1.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
+	<video width="800" controls><source src="/assets/fwoompsuitz/suitzV7-preview1.mp4" type="video/mp4">Your browser does not support the video tag.</video> 
 </div>

@@ -3,6 +3,6 @@ title:
 layout: home
 ---
 
-Welcome to my **Blog**!
+welcome to my website!
 
-Nothing much here. (also, if you're a (kind of) sane person, please do not go in my 3 last blogs (those in 2022)! They are fetish related.)
+nothing much here. just don't look at any blog post below if you're a sane person (they contain borderline nsfw stuff/fetish stuff)

@@ -4,12 +4,12 @@ layout: page
 permalink: /about/
 ---
 
-I am a retired roblox game developer, which has knowledge on LuaU as well as Roblox Studio in general. I quitted because of updates and also because of my game, which was fetish related (I wanted to stop)
+retired roblox game developer, i've made weird ToS breaking stuff on there. quitted because of updates (example: the removal of r6) and also because of I wanted to stop developing those ToS breaking games
 
-I also recently started to make A.I. Art using UniDream, and posted it on DeviantArt.
+this is pretty much my alt account where i go crazy about borderline nsfw stuff.
 
-I do not have much else to say.
+i've also made a bunch of art using AI (specifically: UniDream) in the past. i'm not very proud of that art so i have removed them from my deviantart page. i'm not against archiving tho, so you can download them [here]()
 
-If you want to contact me, here is my Discord: adaaaaaaadsasd#2746
+i do not have much else to say.
 
-and here's my DeviantArt: [https://www.deviantart.com/adaaaaaaadsasd](https://www.deviantart.com/adaaaaaaadsasd)
+if you want to contact me, here is my Discord: adaaaaaaadsasd (if you do not want to send me a Friend Request, i am in the Flashpoint server if you want to send me a DM instead)

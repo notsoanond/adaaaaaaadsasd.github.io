@@ -5,6 +5,8 @@ layout: post
 
 **WARNING: This contains information only for Android devices. Sorry iOS users.**
 
+***UPDATE: Looks like the creators of UniDream have seen my post or something. The Package name of UniDream keeps changing. Don't use this tutorial for now, use other AIs. Also uhhhh, I don't do AI art anymore lol.***
+
 Y'all thought that I was dead or something? Nope! I only partially quitted the inflation fetish scene. "Partially", because I still look through inflation art on DeviantArt. Anyways, I came accross pictures of A.I. art and blah blah blah now I make A.I. art using UniDream. Sadly, UniDream isn't avaliable on computers (it would've been easy to crack it).
 
 UniDream normally forces you to pay 6,49 CAD per month, or 25,99 CAD per year (you get a discount if you buy it per year, but the service might be down in a few years, plus you get the extra cards if you cancel and get the subscription back at the end of the month.) for you to remove watermarks (they put watermarks because they want you to buy Pro to pay for their dumb servers who probably have thousands of pre-generated pictures), but I found a way to extract the original images, which don't have the watermarks.

@@ -22,10 +22,10 @@ YUP! I downloaded fucking **289 MODELS** from the ROBLOX Library/Toolbox. There 
 Yes, a "new" project. Well not exactly. It's just an improved "Open Source", version of the Weather Balloon Suit in inflatable suitz!, except it has a few new features. You only need to insert the model inside of your game, or just to open the included demo game!
 
 <div align="center">
-    <img src="https://adaaaaaaadsasd.github.io/assets/avatars/osworkspace.png" width="800" />
+    <img src="/assets/avatars/osworkspace-o.png" width="800" />
 </div>
 
-[Download](https://adaaaaaaadsasd.github.io/assets/download/archive_finalrelease.7z) (43MB zipped, 133MB unzipped)
+[Download](/assets/download/archive_finalrelease.7z) (43MB zipped, 133MB unzipped)
 
 You'll need 7zip to extract the 7z file. There is NO password this time. There are a few more informations in the READ ME, and more "a rambling about why inflation on roblox should not be public".
 
